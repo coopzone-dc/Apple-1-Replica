@@ -1,4 +1,4 @@
-This site is just being setup. Please come back in a day of two.
+This site is just being setup. More to follow soon.
 
 Thanks
 
