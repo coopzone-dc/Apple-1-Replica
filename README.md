@@ -2,6 +2,10 @@ This site is just being setup. More to follow soon.
 
 Thanks
 
+<div align="center" width="400" height="400">
+	<img src="https://github.com/coopzone-dc/Apple-1-Replica/blob/main/pictures/Apple%201%20Replica.png">
+</div>
+
 the circuit and pcb design re published here:
 
 https://oshwlab.com/mycoopzone/apple-1-replica
