@@ -1,9 +1,8 @@
 Detail for the CZ6502 SBC, apple 1 replica.
 
-
-<div align="center" width="300" height="300">
-	<img src="https://github.com/coopzone-dc/Apple-1-Replica/blob/main/pictures/Apple%201%20Replica.png">
-</div>
+<p align="center" p>
+<img src="https://github.com/coopzone-dc/Apple-1-Replica/blob/main/pictures/Apple%201%20Replica.png" width="350" height="350" >
+</p>
 
 the circuit and pcb design re published here:
 
