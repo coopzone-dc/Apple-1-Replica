@@ -8,7 +8,7 @@ the circuit and pcb design re published here:
 
 https://oshwlab.com/mycoopzone/apple-1-replica
 
-The Apple 1 Terminal folder has the lastest firmare for the Arduino Nano it it.
+The Apple 1 Terminal folder has the lastest firmare for the Arduino Nano in it.
 
 Roms folder has the lastest Rom images for Apple 1 software
 
