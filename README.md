@@ -1,6 +1,5 @@
-This site is just being setup. More to follow soon.
+Detail for the CZ6502 SBC, apple 1 replica.
 
-Thanks
 
 <div align="center" width="300" height="300">
 	<img src="https://github.com/coopzone-dc/Apple-1-Replica/blob/main/pictures/Apple%201%20Replica.png">
