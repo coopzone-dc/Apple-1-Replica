@@ -1,6 +1,6 @@
 Mostly games collected from various places.
 
-Some tested some not! so your milage may vary! I have patched some of the program to work with the SBC6502. Not tested extensively. 
+Some tested some not! so your milage may vary!
 
 They are mostly memory images of BASIC games, to run them:
 
