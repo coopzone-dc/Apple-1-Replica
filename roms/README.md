@@ -14,4 +14,4 @@ Set the A14/A15 jumbers to 0v for block 0
 
 Set A14 to +5v and A15 to 0v for block 1
 
-* See notes in msbasic_notes.md
+  * See notes in msbasic_notes.md
