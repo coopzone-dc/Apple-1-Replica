@@ -16,5 +16,5 @@ it's a combined image currently with the original Replica 1 Wozmon, Krusaider 1.
 
 It also has an image with an updated version. 1.3, of krusaider.
 
-Added 8k ms-basic ROM image to roms folder.
+Added 8k ms-basic ROM image to roms folder. And the msbasic folder contains the source code for my changes to compile against the source code distro, see the readme file in the folder.
 
